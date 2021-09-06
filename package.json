@@ -1,0 +1,23 @@
+{
+  "name": "books-directory",
+  "version": "1.0.0",
+  "description": "A Rest Application to Manage Book Directory by retrieving the Book info,Creating new Book information , Updating the Book information and Removing Book information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScoobyLuffyDoo/Books-Directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScoobyLuffyDoo/Books-Directory/issues"
+  },
+  "homepage": "https://github.com/ScoobyLuffyDoo/Books-Directory#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
